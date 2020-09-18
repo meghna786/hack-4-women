@@ -1,4 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hack4Women
+
+## We are making this project for the Hack4Women GIRLSCRIPT INDIA SUMMIT 2020 Hackathon
+
+We are building a website where we will connect these rural women to the consumers directly without any intermediate traders.
+We will have a database of all those women who want to sell their product to the market, and then the consumers can directly connect
+to them, by locating their positions using the MAP APIs.
+
+### OUR APPROACH
+- Building a website to connect rural women to the big market.
+- Using the map APIs to track the location of those women.
+- Store the details of them in a structured database.
+
+### TECH STACKS USED
+
+- React
+- TypeScript
+- HTML
+- SCSS
+
+### TEAM MEMBERS
+
+- Prince Srivastav
+- Meghna Sharma
+- Harshita Raj
+- Avula Babitha Lakshmi Sai
+- Anjali Soni
+
+### For running it on localhost
+
+Clone the project
+
+Open the terminal and `yarn install`
+
+`yarn run start`
 
 ## Available Scripts
 
@@ -42,3 +76,28 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
