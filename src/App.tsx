@@ -1,12 +1,13 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.scss';
 import Landing from "./components/landing/landing";
+import Navbar from "./components/navbar/navbar";
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Naari Shakti</h1>
+      <Navbar/>
       <Landing/>
     </div>
   );
