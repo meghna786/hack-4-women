@@ -1,0 +1,37 @@
+.box-main{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #d2dae2;
+      max-width: 60%;
+      margin: auto;
+      height:500px;
+      flex-direction: column;
+}
+
+
+.text-big{
+      font-size:45px;
+      margin: 15px 0;
+}
+
+.text-small{
+      font-size: 18px;
+      font-family: 'Sue Ellen Francisco', cursive;
+      padding-top: 0px;
+      margin: 0;
+      text-align: center;
+}
+
+.secondsection{
+      display:flex;
+      justify-content: center
+}
+.card{
+    padding: 20px 20px;
+}
+
+.card img{
+    height: 200px;
+    width: 350px;
+}

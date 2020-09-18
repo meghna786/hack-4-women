@@ -1,0 +1,35 @@
+.topnav {
+      overflow: hidden;
+      padding: 8px 3px;
+    }
+    
+    .topnav a {
+      float: left;
+      color: #6b6a6a;
+      text-align: center;
+      padding: 4px 16px;
+      text-decoration: none;
+    }
+    
+    .topnav a:hover {
+      color: black;
+    }
+    
+
+    .rightnav {
+      float: right;
+      font-size: 20px;
+    }
+
+
+    .leftnav{
+      float: left;
+}
+
+.leftnav img{
+      height: 51px;
+}
+
+.leftnav img:hover{
+  cursor: pointer;
+}
