@@ -5,7 +5,7 @@ const NavBar : React.FC=()=>{
             <div>
       <nav className="topnav">
             <div className="leftnav">
-                  <a className="active" href="#home">khadi</a>
+                  <img src="/images/logo.png" alt=""/>
             </div>
             <div className="rightnav">
                   <a href="#search">Home</a>

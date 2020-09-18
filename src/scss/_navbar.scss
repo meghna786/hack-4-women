@@ -1,6 +1,6 @@
 .topnav {
       overflow: hidden;
-      padding: 10px 15px;
+      padding: 8px 3px;
     }
     
     .topnav a {
@@ -23,5 +23,13 @@
 
 
     .leftnav{
-          font-size: 29px;
-    }
+      float: left;
+}
+
+.leftnav img{
+      height: 51px;
+}
+
+.leftnav img:hover{
+  cursor: pointer;
+}
